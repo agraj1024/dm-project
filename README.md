@@ -14,3 +14,5 @@ The project has the following files
 3. Run elbow method to determine the number of clusters
 4. Run k-means clustering to cluster the accidents
 5. Run the other data mining algorithms
+
+## [Dataset link](https://drive.google.com/drive/folders/1-vwyRbj0kwtdno0jYS5wX9H86WqxUkjj?usp=drive_link)
